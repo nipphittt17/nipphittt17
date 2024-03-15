@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hi, I'm Kean 🐢🫧</h2>
-<h4 align="center">A 3rd-year student at Faculty of ICT, Mahidol University</h4>
+<h4 align="center">A 4th-year student at Faculty of ICT, Mahidol University</h4>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/nipphit-apisitpuwakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipphit-apisitpuwakul" height="30" width="40" /></a>
